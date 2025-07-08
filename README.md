@@ -1,4 +1,4 @@
-Kadir Kakız 🎓🤖
+## Kadir Kakız 🎓🤖
 Kadir Kakız is a passionate learner and aspiring AI developer based in Antalya, Turkey. He is currently studying Electrical and Electronics Engineering at Antalya Bilim University ⚡ while actively pursuing knowledge in data science, machine learning, and artificial intelligence 🤖.
 
 Kadir has completed the “Python ile Makine Öğrenmesi Uygulamaları” course from BTK Akademi and is deeply engaged in hands-on projects that combine theory and real-world application 📊. He is particularly interested in simplifying complex machine learning topics for beginner learners and has created detailed study documents with visual explanations, charts, and Python code examples 📚🐍.
