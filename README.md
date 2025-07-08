@@ -31,4 +31,4 @@ You can contact Kadir to request access to his visual machine learning guides an
 
 
 📬 Contact
-📧 kadirkakiz@gmail.com
+📧 kadirkakiz61@gmail.com
